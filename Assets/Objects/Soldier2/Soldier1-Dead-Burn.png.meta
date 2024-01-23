@@ -1,0 +1,690 @@
+fileFormatVersion: 2
+guid: 8f68cd8cf2e7bf243bd02c33beb7d718
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 632841774609329886
+    second: Soldier1-Dead-Burn_0
+  - first:
+      213: 7501448147033729016
+    second: Soldier1-Dead-Burn_1
+  - first:
+      213: -3410991830547276243
+    second: Soldier1-Dead-Burn_2
+  - first:
+      213: -4608802611486498288
+    second: Soldier1-Dead-Burn_3
+  - first:
+      213: 3035644359500702688
+    second: Soldier1-Dead-Burn_4
+  - first:
+      213: 2568958430007952151
+    second: Soldier1-Dead-Burn_5
+  - first:
+      213: 4280665673896981395
+    second: Soldier1-Dead-Burn_6
+  - first:
+      213: 7870541096963401212
+    second: Soldier1-Dead-Burn_7
+  - first:
+      213: -5317210147030966239
+    second: Soldier1-Dead-Burn_8
+  - first:
+      213: -1898530481851540997
+    second: Soldier1-Dead-Burn_9
+  - first:
+      213: 6046226479309109704
+    second: Soldier1-Dead-Burn_10
+  - first:
+      213: 7239332313282255220
+    second: Soldier1-Dead-Burn_11
+  - first:
+      213: 5302979898782297371
+    second: Soldier1-Dead-Burn_12
+  - first:
+      213: 4678748080093271428
+    second: Soldier1-Dead-Burn_13
+  - first:
+      213: -8783950004029285310
+    second: Soldier1-Dead-Burn_14
+  - first:
+      213: 5233245393025266779
+    second: Soldier1-Dead-Burn_15
+  - first:
+      213: -3580228579885475148
+    second: Soldier1-Dead-Burn_16
+  - first:
+      213: 8002870801278043738
+    second: Soldier1-Dead-Burn_17
+  - first:
+      213: 4148908648181790816
+    second: Soldier1-Dead-Burn_18
+  - first:
+      213: -8027045143530106418
+    second: Soldier1-Dead-Burn_19
+  - first:
+      213: -1903522619358968367
+    second: Soldier1-Dead-Burn_20
+  - first:
+      213: -4764202225703576049
+    second: Soldier1-Dead-Burn_21
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Soldier1-Dead-Burn_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 88
+        width: 46
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edeed96bd3e48c800800000000000000
+      internalID: 632841774609329886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier1-Dead-Burn_1
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 88
+        width: 46
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f725f8685f7a1860800000000000000
+      internalID: 7501448147033729016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier1-Dead-Burn_2
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 88
+        width: 45
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2e58789009b9a0d0800000000000000
+      internalID: -3410991830547276243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier1-Dead-Burn_3
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 88
+        width: 45
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 012647e717e3a00c0800000000000000
+      internalID: -4608802611486498288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier1-Dead-Burn_4
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 88
+        width: 46
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e325702676c02a20800000000000000
+      internalID: 3035644359500702688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier1-Dead-Burn_5
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 88
+        width: 45
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7138e57c416c6a320800000000000000
+      internalID: 2568958430007952151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier1-Dead-Burn_6
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 88
+        width: 46
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39376de10caf76b30800000000000000
+      internalID: 4280665673896981395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier1-Dead-Burn_7
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 88
+        width: 46
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf5ed928d67c93d60800000000000000
+      internalID: 7870541096963401212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier1-Dead-Burn_8
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 90
+        width: 43
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 120ed160b897536b0800000000000000
+      internalID: -5317210147030966239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier1-Dead-Burn_9
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 90
+        width: 44
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf9dcf9e59017a5e0800000000000000
+      internalID: -1898530481851540997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier1-Dead-Burn_10
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 90
+        width: 45
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c9b7cad2f288e350800000000000000
+      internalID: 6046226479309109704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier1-Dead-Burn_11
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 13
+        width: 44
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47912302266477460800000000000000
+      internalID: 7239332313282255220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier1-Dead-Burn_12
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 13
+        width: 43
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1da4fd1f18f79940800000000000000
+      internalID: 5302979898782297371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier1-Dead-Burn_13
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 14
+        width: 43
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 485108bf6904ee040800000000000000
+      internalID: 4678748080093271428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier1-Dead-Burn_14
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 13
+        width: 44
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24c1b0db204291680800000000000000
+      internalID: -8783950004029285310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier1-Dead-Burn_15
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 14
+        width: 45
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5478b145f830a840800000000000000
+      internalID: 5233245393025266779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier1-Dead-Burn_16
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 13
+        width: 44
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ba99315319705ec0800000000000000
+      internalID: -3580228579885475148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier1-Dead-Burn_17
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 13
+        width: 44
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a56068db798ef0f60800000000000000
+      internalID: 8002870801278043738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier1-Dead-Burn_18
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 14
+        width: 45
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 068fb640f62e39930800000000000000
+      internalID: 4148908648181790816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier1-Dead-Burn_19
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 14
+        width: 46
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec11dd798f43a9090800000000000000
+      internalID: -8027045143530106418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier1-Dead-Burn_20
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 14
+        width: 39
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d5003353445595e0800000000000000
+      internalID: -1903522619358968367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier1-Dead-Burn_21
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 14
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0e10da415722edb0800000000000000
+      internalID: -4764202225703576049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Soldier1-Dead-Burn_0: 632841774609329886
+      Soldier1-Dead-Burn_1: 7501448147033729016
+      Soldier1-Dead-Burn_10: 6046226479309109704
+      Soldier1-Dead-Burn_11: 7239332313282255220
+      Soldier1-Dead-Burn_12: 5302979898782297371
+      Soldier1-Dead-Burn_13: 4678748080093271428
+      Soldier1-Dead-Burn_14: -8783950004029285310
+      Soldier1-Dead-Burn_15: 5233245393025266779
+      Soldier1-Dead-Burn_16: -3580228579885475148
+      Soldier1-Dead-Burn_17: 8002870801278043738
+      Soldier1-Dead-Burn_18: 4148908648181790816
+      Soldier1-Dead-Burn_19: -8027045143530106418
+      Soldier1-Dead-Burn_2: -3410991830547276243
+      Soldier1-Dead-Burn_20: -1903522619358968367
+      Soldier1-Dead-Burn_21: -4764202225703576049
+      Soldier1-Dead-Burn_3: -4608802611486498288
+      Soldier1-Dead-Burn_4: 3035644359500702688
+      Soldier1-Dead-Burn_5: 2568958430007952151
+      Soldier1-Dead-Burn_6: 4280665673896981395
+      Soldier1-Dead-Burn_7: 7870541096963401212
+      Soldier1-Dead-Burn_8: -5317210147030966239
+      Soldier1-Dead-Burn_9: -1898530481851540997
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

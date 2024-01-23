@@ -1,0 +1,456 @@
+fileFormatVersion: 2
+guid: ff3b3cda53dd05547b1201c8aabfc0f7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6115474218109925407
+    second: Fight1_0
+  - first:
+      213: 8463065455473697253
+    second: Fight1_1
+  - first:
+      213: 2205298864740610090
+    second: Fight1_2
+  - first:
+      213: -1760550541657242293
+    second: Fight1_3
+  - first:
+      213: 2000028656373932889
+    second: Fight1_4
+  - first:
+      213: -8896486787017689046
+    second: Fight1_5
+  - first:
+      213: 4687257862769994653
+    second: Fight1_6
+  - first:
+      213: 2908140323320748363
+    second: Fight1_7
+  - first:
+      213: -7818674454428027081
+    second: Fight1_8
+  - first:
+      213: 5005986422090188627
+    second: Fight1_9
+  - first:
+      213: 554327610888528703
+    second: Fight1_10
+  - first:
+      213: 1916661661131422651
+    second: Fight1_11
+  - first:
+      213: 2257333090625211414
+    second: Fight1_12
+  - first:
+      213: -3554257407747701422
+    second: Fight1_13
+  - first:
+      213: 3227543806713102521
+    second: Fight1_14
+  - first:
+      213: 5258944600357332286
+    second: Fight1_15
+  - first:
+      213: -7595940265457908911
+    second: Fight1_16
+  - first:
+      213: 3494601921046139119
+    second: Fight1_17
+  - first:
+      213: -3356108112997022691
+    second: Fight1_18
+  - first:
+      213: -8250253236488502811
+    second: Fight1_19
+  - first:
+      213: 2309177234553003582
+    second: Fight1_20
+  - first:
+      213: -8188029078372346770
+    second: Fight1_21
+  - first:
+      213: 6745421828013318310
+    second: Fight1_22
+  - first:
+      213: -833962804632857162
+    second: Fight1_23
+  - first:
+      213: 7695054965191049602
+    second: Fight1_24
+  - first:
+      213: 6359644565034002995
+    second: Fight1_25
+  - first:
+      213: 8614080277445332848
+    second: Fight1_26
+  - first:
+      213: -7869200326522284739
+    second: Fight1_27
+  - first:
+      213: -4525990445821546889
+    second: Fight1_28
+  - first:
+      213: -5716945775537111671
+    second: Fight1_29
+  - first:
+      213: 5466675550653734469
+    second: Fight1_30
+  - first:
+      213: -3875341861539134040
+    second: Fight1_31
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Fight1_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 4
+        width: 19
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e78f7c8998712ba0800000000000000
+      internalID: -6115474218109925407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fight1_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 4
+        width: 29
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e1a3684139d27570800000000000000
+      internalID: 8463065455473697253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fight1_2
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 4
+        width: 38
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a20bf6022abca9e10800000000000000
+      internalID: 2205298864740610090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fight1_3
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 4
+        width: 48
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4506633c944197e0800000000000000
+      internalID: -1760550541657242293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fight1_4
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 4
+        width: 57
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95325c3677781cb10800000000000000
+      internalID: 2000028656373932889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fight1_5
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 4
+        width: 67
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a28bade1764598480800000000000000
+      internalID: -8896486787017689046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fight1_6
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 4
+        width: 76
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9bef09213c7c0140800000000000000
+      internalID: 4687257862769994653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fight1_7
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 4
+        width: 87
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b49d580573acb5820800000000000000
+      internalID: 2908140323320748363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fight1_8
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 4
+        width: 96
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7377561420d7e7390800000000000000
+      internalID: -7818674454428027081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fight1_9
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 4
+        width: 106
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3574d17c026d87540800000000000000
+      internalID: 5005986422090188627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Fight1_0: -6115474218109925407
+      Fight1_1: 8463065455473697253
+      Fight1_2: 2205298864740610090
+      Fight1_3: -1760550541657242293
+      Fight1_4: 2000028656373932889
+      Fight1_5: -8896486787017689046
+      Fight1_6: 4687257862769994653
+      Fight1_7: 2908140323320748363
+      Fight1_8: -7818674454428027081
+      Fight1_9: 5005986422090188627
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

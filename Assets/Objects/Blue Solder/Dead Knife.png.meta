@@ -1,0 +1,524 @@
+fileFormatVersion: 2
+guid: 0a5f762c5e1f2a04089ad4a639e849fb
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2470344300363118114
+    second: Dead Knife_0
+  - first:
+      213: -8597210256013151367
+    second: Dead Knife_1
+  - first:
+      213: -5428009414133097202
+    second: Dead Knife_2
+  - first:
+      213: -5901868470952969759
+    second: Dead Knife_3
+  - first:
+      213: 1052962854025035632
+    second: Dead Knife_4
+  - first:
+      213: -87621309918243758
+    second: Dead Knife_5
+  - first:
+      213: -39648017160636522
+    second: Dead Knife_6
+  - first:
+      213: -2096672045571218776
+    second: Dead Knife_7
+  - first:
+      213: 7246312194641295154
+    second: Dead Knife_8
+  - first:
+      213: 5451609448427542736
+    second: Dead Knife_9
+  - first:
+      213: -6660441049663150333
+    second: Dead Knife_11
+  - first:
+      213: 8223626232715001700
+    second: Dead Knife_11
+  - first:
+      213: -4488620347012807880
+    second: Dead Knife_12
+  - first:
+      213: -6383201564279280184
+    second: Dead Knife_13
+  - first:
+      213: 5896953182459307808
+    second: Dead Knife_14
+  - first:
+      213: 7190567661121987437
+    second: Dead Knife_15
+  - first:
+      213: -451147876349678498
+    second: Dead Knife_16
+  - first:
+      213: -3447462278176973477
+    second: Dead Knife_17
+  - first:
+      213: 5496030212703735602
+    second: Dead Knife_18
+  - first:
+      213: 341926571361504567
+    second: Dead Knife_19
+  - first:
+      213: -2252719303290396056
+    second: Dead Knife_20
+  - first:
+      213: -1260665445629828727
+    second: Dead Knife_21
+  - first:
+      213: 3178087369638390329
+    second: Dead Knife_22
+  - first:
+      213: 8880164867138137682
+    second: Dead Knife_23
+  - first:
+      213: 5091576458546929312
+    second: Dead Knife_8
+  - first:
+      213: 7083618101667272213
+    second: Dead Knife_9
+  - first:
+      213: -2398914620360325373
+    second: Dead Knife_11
+  - first:
+      213: -7032574642287666390
+    second: Dead Knife_0
+  - first:
+      213: 5614874896904416650
+    second: Dead Knife_1
+  - first:
+      213: 1844543518129235236
+    second: Dead Knife_2
+  - first:
+      213: 2347389716808782673
+    second: Dead Knife_3
+  - first:
+      213: 4002527033549308884
+    second: Dead Knife_4
+  - first:
+      213: -67820029683408084
+    second: Dead Knife_5
+  - first:
+      213: 8831994829772455797
+    second: Dead Knife_6
+  - first:
+      213: -6451323420128643045
+    second: Dead Knife_7
+  - first:
+      213: -2398914620360325373
+    second: Dead Knife_10
+  - first:
+      213: -3699766259541502481
+    second: Dead Knife_14
+  - first:
+      213: -8923609675438106111
+    second: Dead Knife_15
+  - first:
+      213: -7653794154620789203
+    second: Dead Knife_17
+  - first:
+      213: -6791573237030114200
+    second: Dead Knife_19
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Dead Knife_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3
+        width: 32
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2b160e7f96476e90800000000000000
+      internalID: 2470344300363118114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dead Knife_1
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 3
+        width: 36
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8dee3848fa0ced40800000000000000
+      internalID: -8597210256013151367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dead Knife_2
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 3
+        width: 40
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 425a7d29e82299910800000000000000
+      internalID: -5428009414133097202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dead Knife_3
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 3
+        width: 43
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 153dacba28a939020800000000000000
+      internalID: -5901868470952969759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dead Knife_4
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 3
+        width: 45
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d3ca967125db8730800000000000000
+      internalID: 1052962854025035632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dead Knife_5
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 3
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c236016da0e0f0ff0800000000000000
+      internalID: -87621309918243758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dead Knife_6
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 3
+        width: 45
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57f7ca6f08c819a70800000000000000
+      internalID: -39648017160636522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dead Knife_7
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 3
+        width: 49
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a26c3912ef17e2e0800000000000000
+      internalID: -2096672045571218776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dead Knife_8
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 1
+        width: 48
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 237fc256c82109460800000000000000
+      internalID: 7246312194641295154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dead Knife_9
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 1
+        width: 50
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d8dfa3d8e108ab40800000000000000
+      internalID: 5451609448427542736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dead Knife_10
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 3
+        width: 48
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3078eeedcd755bed0800000000000000
+      internalID: -2398914620360325373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dead Knife_11
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 5
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 307e563672c5193a0800000000000000
+      internalID: -6660441049663150333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Dead Knife_0: 2470344300363118114
+      Dead Knife_1: -8597210256013151367
+      Dead Knife_10: -2398914620360325373
+      Dead Knife_11: -6660441049663150333
+      Dead Knife_2: -5428009414133097202
+      Dead Knife_3: -5901868470952969759
+      Dead Knife_4: 1052962854025035632
+      Dead Knife_5: -87621309918243758
+      Dead Knife_6: -39648017160636522
+      Dead Knife_7: -2096672045571218776
+      Dead Knife_8: 7246312194641295154
+      Dead Knife_9: 5451609448427542736
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
