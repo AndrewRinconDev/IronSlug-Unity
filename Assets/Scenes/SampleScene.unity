@@ -411,8 +411,8 @@ MonoBehaviour:
   anChest: {fileID: 1524787700}
   anLegs: {fileID: 1760310977}
   isDead: 0
-  lifes: 1
-  txtLifes: {fileID: 3005343494494521643}
+  lives: 1
+  txtLives: {fileID: 3005343494494521643}
   ResetGameOver: {fileID: 587420733}
   audioBullet: {fileID: 1096097900741785027, guid: ce149dc3153054e469a00a0a0cd3726f,
     type: 3}

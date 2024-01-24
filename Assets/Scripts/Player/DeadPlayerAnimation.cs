@@ -9,9 +9,9 @@ public class DeadPlayerAnimation : MonoBehaviour
     public Animator anChest;
     public Animator anLegs;
     public bool isDead;
-    public int lifes;
+    public int lives;
     public bool isGameOver;
-    public Text txtLifes;
+    public Text txtLives;
     public GameObject ResetGameOver;
 
     public GameObject audioBullet;
@@ -32,12 +32,12 @@ public class DeadPlayerAnimation : MonoBehaviour
 
     private void Update()
     {
-        txtLifes.text = lifes.ToString();
+        txtLives.text = lives.ToString();
     }
 
     public void addLife()
     {
-        lifes++;
+        lives++;
     }
 
     public void DeadElectro()
@@ -47,7 +47,7 @@ public class DeadPlayerAnimation : MonoBehaviour
             isDead = true;
             emitirSonido(audioElectro, 1);
             emitirSonido(audioBullet, 0.2f);
-            if (lifes > 1)
+            if (lives > 1)
             {
                 Invoke("revivir", 2);
             }
@@ -67,7 +67,7 @@ public class DeadPlayerAnimation : MonoBehaviour
         {
             isDead = true;
             emitirSonido(audioBurn, 1);
-            if (lifes > 1)
+            if (lives > 1)
             {
                 Invoke("revivir", 2);
             }
@@ -88,7 +88,7 @@ public class DeadPlayerAnimation : MonoBehaviour
         {
             isFirst = isDead = true;
             emitirSonido(audioBullet, 1);
-            if (lifes > 1)
+            if (lives > 1)
             {
                 Invoke("revivir", 2);
             }
@@ -108,7 +108,7 @@ public class DeadPlayerAnimation : MonoBehaviour
     {
         if (isGameOver) return;
 
-        lifes--;
+        lives--;
         gameObject.GetComponent<Movimiento>().setReviewPosition();
         emitirSonido(audioAppear, 1);
         anChest.SetTrigger("isReviving");
@@ -134,7 +134,7 @@ public class DeadPlayerAnimation : MonoBehaviour
     {
         if (isGameOver) return;
 
-        lifes = 0;
+        lives = 0;
         isGameOver = true;
         Destroy(gameObject, 1);
         GameObject gameOver = GameObject.FindGameObjectWithTag("CanvasGameOver");

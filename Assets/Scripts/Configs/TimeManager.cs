@@ -5,7 +5,7 @@ using UnityEngine.UI;
 
 public class TimeManager : MonoBehaviour
 {
-    private const int DEFAULT_TIME = 75;
+    private const int DEFAULT_TIME = 12;
     private float time;
     public Text txtTimer;
     private GameObject player;

@@ -23,7 +23,9 @@ TagManager:
   - ButtonGameOver
   - FinalScore
   - VictoryFinalScore
-  - LabelFinalScore
+  - VictoryBonusLabel
+  - VictoryBonusScore
+  - VictoryTotalScore
   layers:
   - Default
   - TransparentFX
