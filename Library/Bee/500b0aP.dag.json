@@ -137,8 +137,8 @@
       "DisplayName": "Writing UnityEngine.TestRunner.UnityAdditionalFile.txt",
       "ActionType": "WriteFile",
       "PayloadOffset": 106,
-      "PayloadLength": 95,
-      "PayloadDebugContentSnippet": "C:\\Users\\andre\\OneDrive\\Docume",
+      "PayloadLength": 46,
+      "PayloadDebugContentSnippet": "C:\\Projects\\Owner\\Projects\\Cod",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/500b0aP.dag/UnityEngine.TestRunner.UnityAdditionalFile.txt"
@@ -149,8 +149,8 @@
       "Annotation": "WriteText Library/Bee/artifacts/500b0aP.dag/UnityEngine.TestRunner.rsp",
       "DisplayName": "Writing UnityEngine.TestRunner.rsp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 293,
-      "PayloadLength": 45433,
+      "PayloadOffset": 244,
+      "PayloadLength": 45406,
       "PayloadDebugContentSnippet": "-target:library\r\n-out:\"Library",
       "Inputs": [],
       "Outputs": [
@@ -162,9 +162,9 @@
       "Annotation": "WriteText Library/Bee/artifacts/500b0aP.dag/UnityEngine.TestRunner.rsp2",
       "DisplayName": "Writing UnityEngine.TestRunner.rsp2",
       "ActionType": "WriteFile",
-      "PayloadOffset": 45819,
-      "PayloadLength": 108,
-      "PayloadDebugContentSnippet": "/pathmap:\"C:\\Users\\andre\\OneDr",
+      "PayloadOffset": 45743,
+      "PayloadLength": 59,
+      "PayloadDebugContentSnippet": "/pathmap:\"C:\\Projects\\Owner\\Pr",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/500b0aP.dag/UnityEngine.TestRunner.rsp2"
@@ -1613,7 +1613,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/500b0aP.dag/UnityEngine.TestRunner.dll.mvfrm.rsp",
       "DisplayName": "Writing UnityEngine.TestRunner.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 46029,
+      "PayloadOffset": 45904,
       "PayloadLength": 5794,
       "PayloadDebugContentSnippet": "Library\\Bee\\artifacts\\mvdfrm\\U",
       "Inputs": [],
@@ -1778,9 +1778,9 @@
       "Annotation": "WriteText Library/Bee/artifacts/500b0aP.dag/UnityEngine.UI.UnityAdditionalFile.txt",
       "DisplayName": "Writing UnityEngine.UI.UnityAdditionalFile.txt",
       "ActionType": "WriteFile",
-      "PayloadOffset": 51927,
-      "PayloadLength": 95,
-      "PayloadDebugContentSnippet": "C:\\Users\\andre\\OneDrive\\Docume",
+      "PayloadOffset": 51802,
+      "PayloadLength": 46,
+      "PayloadDebugContentSnippet": "C:\\Projects\\Owner\\Projects\\Cod",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/500b0aP.dag/UnityEngine.UI.UnityAdditionalFile.txt"
@@ -1791,8 +1791,8 @@
       "Annotation": "WriteText Library/Bee/artifacts/500b0aP.dag/UnityEngine.UI.rsp",
       "DisplayName": "Writing UnityEngine.UI.rsp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 52106,
-      "PayloadLength": 38830,
+      "PayloadOffset": 51932,
+      "PayloadLength": 38803,
       "PayloadDebugContentSnippet": "-target:library\r\n-out:\"Library",
       "Inputs": [],
       "Outputs": [
@@ -1804,9 +1804,9 @@
       "Annotation": "WriteText Library/Bee/artifacts/500b0aP.dag/UnityEngine.UI.rsp2",
       "DisplayName": "Writing UnityEngine.UI.rsp2",
       "ActionType": "WriteFile",
-      "PayloadOffset": 91021,
-      "PayloadLength": 108,
-      "PayloadDebugContentSnippet": "/pathmap:\"C:\\Users\\andre\\OneDr",
+      "PayloadOffset": 90820,
+      "PayloadLength": 59,
+      "PayloadDebugContentSnippet": "/pathmap:\"C:\\Projects\\Owner\\Pr",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/500b0aP.dag/UnityEngine.UI.rsp2"
@@ -2128,7 +2128,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/500b0aP.dag/UnityEngine.UI.dll.mvfrm.rsp",
       "DisplayName": "Writing UnityEngine.UI.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 91223,
+      "PayloadOffset": 90973,
       "PayloadLength": 5794,
       "PayloadDebugContentSnippet": "Library\\Bee\\artifacts\\mvdfrm\\U",
       "Inputs": [],
@@ -2293,9 +2293,9 @@
       "Annotation": "WriteText Library/Bee/artifacts/500b0aP.dag/Unity.AI.Navigation.UnityAdditionalFile.txt",
       "DisplayName": "Writing Unity.AI.Navigation.UnityAdditionalFile.txt",
       "ActionType": "WriteFile",
-      "PayloadOffset": 97126,
-      "PayloadLength": 95,
-      "PayloadDebugContentSnippet": "C:\\Users\\andre\\OneDrive\\Docume",
+      "PayloadOffset": 96876,
+      "PayloadLength": 46,
+      "PayloadDebugContentSnippet": "C:\\Projects\\Owner\\Projects\\Cod",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/500b0aP.dag/Unity.AI.Navigation.UnityAdditionalFile.txt"
@@ -2306,8 +2306,8 @@
       "Annotation": "WriteText Library/Bee/artifacts/500b0aP.dag/Unity.AI.Navigation.rsp",
       "DisplayName": "Writing Unity.AI.Navigation.rsp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 97310,
-      "PayloadLength": 32054,
+      "PayloadOffset": 97011,
+      "PayloadLength": 32027,
       "PayloadDebugContentSnippet": "-target:library\r\n-out:\"Library",
       "Inputs": [],
       "Outputs": [
@@ -2319,9 +2319,9 @@
       "Annotation": "WriteText Library/Bee/artifacts/500b0aP.dag/Unity.AI.Navigation.rsp2",
       "DisplayName": "Writing Unity.AI.Navigation.rsp2",
       "ActionType": "WriteFile",
-      "PayloadOffset": 129454,
-      "PayloadLength": 108,
-      "PayloadDebugContentSnippet": "/pathmap:\"C:\\Users\\andre\\OneDr",
+      "PayloadOffset": 129128,
+      "PayloadLength": 59,
+      "PayloadDebugContentSnippet": "/pathmap:\"C:\\Projects\\Owner\\Pr",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/500b0aP.dag/Unity.AI.Navigation.rsp2"
@@ -2583,7 +2583,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/500b0aP.dag/Unity.AI.Navigation.dll.mvfrm.rsp",
       "DisplayName": "Writing Unity.AI.Navigation.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 129661,
+      "PayloadOffset": 129286,
       "PayloadLength": 5870,
       "PayloadDebugContentSnippet": "Library\\Bee\\artifacts\\mvdfrm\\U",
       "Inputs": [],
@@ -2750,9 +2750,9 @@
       "Annotation": "WriteText Library/Bee/artifacts/500b0aP.dag/Unity.TextMeshPro.UnityAdditionalFile.txt",
       "DisplayName": "Writing Unity.TextMeshPro.UnityAdditionalFile.txt",
       "ActionType": "WriteFile",
-      "PayloadOffset": 135638,
-      "PayloadLength": 95,
-      "PayloadDebugContentSnippet": "C:\\Users\\andre\\OneDrive\\Docume",
+      "PayloadOffset": 135263,
+      "PayloadLength": 46,
+      "PayloadDebugContentSnippet": "C:\\Projects\\Owner\\Projects\\Cod",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/500b0aP.dag/Unity.TextMeshPro.UnityAdditionalFile.txt"
@@ -2763,8 +2763,8 @@
       "Annotation": "WriteText Library/Bee/artifacts/500b0aP.dag/Unity.TextMeshPro.rsp",
       "DisplayName": "Writing Unity.TextMeshPro.rsp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 135820,
-      "PayloadLength": 36853,
+      "PayloadOffset": 135396,
+      "PayloadLength": 36826,
       "PayloadDebugContentSnippet": "-target:library\r\n-out:\"Library",
       "Inputs": [],
       "Outputs": [
@@ -2776,9 +2776,9 @@
       "Annotation": "WriteText Library/Bee/artifacts/500b0aP.dag/Unity.TextMeshPro.rsp2",
       "DisplayName": "Writing Unity.TextMeshPro.rsp2",
       "ActionType": "WriteFile",
-      "PayloadOffset": 172761,
-      "PayloadLength": 108,
-      "PayloadDebugContentSnippet": "/pathmap:\"C:\\Users\\andre\\OneDr",
+      "PayloadOffset": 172310,
+      "PayloadLength": 59,
+      "PayloadDebugContentSnippet": "/pathmap:\"C:\\Projects\\Owner\\Pr",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/500b0aP.dag/Unity.TextMeshPro.rsp2"
@@ -3076,7 +3076,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/500b0aP.dag/Unity.TextMeshPro.dll.mvfrm.rsp",
       "DisplayName": "Writing Unity.TextMeshPro.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 172966,
+      "PayloadOffset": 172466,
       "PayloadLength": 5870,
       "PayloadDebugContentSnippet": "Library\\Bee\\artifacts\\mvdfrm\\U",
       "Inputs": [],
@@ -3243,9 +3243,9 @@
       "Annotation": "WriteText Library/Bee/artifacts/500b0aP.dag/Unity.Timeline.UnityAdditionalFile.txt",
       "DisplayName": "Writing Unity.Timeline.UnityAdditionalFile.txt",
       "ActionType": "WriteFile",
-      "PayloadOffset": 178940,
-      "PayloadLength": 95,
-      "PayloadDebugContentSnippet": "C:\\Users\\andre\\OneDrive\\Docume",
+      "PayloadOffset": 178440,
+      "PayloadLength": 46,
+      "PayloadDebugContentSnippet": "C:\\Projects\\Owner\\Projects\\Cod",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/500b0aP.dag/Unity.Timeline.UnityAdditionalFile.txt"
@@ -3256,8 +3256,8 @@
       "Annotation": "WriteText Library/Bee/artifacts/500b0aP.dag/Unity.Timeline.rsp",
       "DisplayName": "Writing Unity.Timeline.rsp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 179119,
-      "PayloadLength": 37937,
+      "PayloadOffset": 178570,
+      "PayloadLength": 37910,
       "PayloadDebugContentSnippet": "-target:library\r\n-out:\"Library",
       "Inputs": [],
       "Outputs": [
@@ -3269,9 +3269,9 @@
       "Annotation": "WriteText Library/Bee/artifacts/500b0aP.dag/Unity.Timeline.rsp2",
       "DisplayName": "Writing Unity.Timeline.rsp2",
       "ActionType": "WriteFile",
-      "PayloadOffset": 217141,
-      "PayloadLength": 108,
-      "PayloadDebugContentSnippet": "/pathmap:\"C:\\Users\\andre\\OneDr",
+      "PayloadOffset": 216565,
+      "PayloadLength": 59,
+      "PayloadDebugContentSnippet": "/pathmap:\"C:\\Projects\\Owner\\Pr",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/500b0aP.dag/Unity.Timeline.rsp2"
@@ -3583,7 +3583,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/500b0aP.dag/Unity.Timeline.dll.mvfrm.rsp",
       "DisplayName": "Writing Unity.Timeline.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 217343,
+      "PayloadOffset": 216718,
       "PayloadLength": 5870,
       "PayloadDebugContentSnippet": "Library\\Bee\\artifacts\\mvdfrm\\U",
       "Inputs": [],
@@ -3750,9 +3750,9 @@
       "Annotation": "WriteText Library/Bee/artifacts/500b0aP.dag/Assembly-CSharp.UnityAdditionalFile.txt",
       "DisplayName": "Writing Assembly-CSharp.UnityAdditionalFile.txt",
       "ActionType": "WriteFile",
-      "PayloadOffset": 223318,
-      "PayloadLength": 95,
-      "PayloadDebugContentSnippet": "C:\\Users\\andre\\OneDrive\\Docume",
+      "PayloadOffset": 222693,
+      "PayloadLength": 46,
+      "PayloadDebugContentSnippet": "C:\\Projects\\Owner\\Projects\\Cod",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/500b0aP.dag/Assembly-CSharp.UnityAdditionalFile.txt"
@@ -3763,8 +3763,8 @@
       "Annotation": "WriteText Library/Bee/artifacts/500b0aP.dag/Assembly-CSharp.rsp",
       "DisplayName": "Writing Assembly-CSharp.rsp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 223498,
-      "PayloadLength": 33201,
+      "PayloadOffset": 222824,
+      "PayloadLength": 33174,
       "PayloadDebugContentSnippet": "-target:library\r\n-out:\"Library",
       "Inputs": [],
       "Outputs": [
@@ -3776,7 +3776,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/500b0aP.dag/Assembly-CSharp.rsp2",
       "DisplayName": "Writing Assembly-CSharp.rsp2",
       "ActionType": "WriteFile",
-      "PayloadOffset": 256785,
+      "PayloadOffset": 256084,
       "PayloadLength": 0,
       "PayloadDebugContentSnippet": "",
       "Inputs": [],
@@ -4107,7 +4107,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/500b0aP.dag/Assembly-CSharp.dll.mvfrm.rsp",
       "DisplayName": "Writing Assembly-CSharp.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 256880,
+      "PayloadOffset": 256179,
       "PayloadLength": 6106,
       "PayloadDebugContentSnippet": "Library\\Bee\\artifacts\\mvdfrm\\U",
       "Inputs": [],
@@ -4459,7 +4459,7 @@
     {
       "Annotation": "BuildPlayerDataGenerator Library/BuildPlayerData/Player/RuntimeInitializeOnLoads.json (+1 other)",
       "DisplayName": "BuildPlayerDataGenerator RuntimeInitializeOnLoads",
-      "Action": "\"C:/Program Files/Unity/Hub/Editor/2022.3.17f1/Editor/Data\\Tools\\netcorerun\\netcorerun.exe\" \"C:/Program Files/Unity/Hub/Editor/2022.3.17f1/Editor/Data/Tools/BuildPlayerDataGenerator/BuildPlayerDataGenerator.exe\" -a=\"C:\\Users\\andre\\OneDrive\\Documentos\\Proyectos\\Personal\\Practice\\Games\\IronSlug_final_v3\\IronSlug\\Library\\Bee\\PlayerScriptAssemblies\\Assembly-CSharp.dll\" -a=\"C:\\Users\\andre\\OneDrive\\Documentos\\Proyectos\\Personal\\Practice\\Games\\IronSlug_final_v3\\IronSlug\\Library\\Bee\\PlayerScriptAssemblies\\Unity.AI.Navigation.dll\" -a=\"C:\\Users\\andre\\OneDrive\\Documentos\\Proyectos\\Personal\\Practice\\Games\\IronSlug_final_v3\\IronSlug\\Library\\Bee\\PlayerScriptAssemblies\\Unity.TextMeshPro.dll\" -a=\"C:\\Users\\andre\\OneDrive\\Documentos\\Proyectos\\Personal\\Practice\\Games\\IronSlug_final_v3\\IronSlug\\Library\\Bee\\PlayerScriptAssemblies\\Unity.Timeline.dll\" -a=\"C:\\Users\\andre\\OneDrive\\Documentos\\Proyectos\\Personal\\Practice\\Games\\IronSlug_final_v3\\IronSlug\\Library\\Bee\\PlayerScriptAssemblies\\UnityEngine.TestRunner.dll\" -a=\"C:\\Users\\andre\\OneDrive\\Documentos\\Proyectos\\Personal\\Practice\\Games\\IronSlug_final_v3\\IronSlug\\Library\\Bee\\PlayerScriptAssemblies\\UnityEngine.UI.dll\" -a=\"C:\\Users\\andre\\OneDrive\\Documentos\\Proyectos\\Personal\\Practice\\Games\\IronSlug_final_v3\\IronSlug\\Library\\PackageCache\\com.unity.ext.nunit@1.0.6\\net35\\unity-custom\\nunit.framework.dll\" -s=\"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.17f1\\Editor\\Data\\Managed\\UnityEngine\" -s=\"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.17f1\\Editor\\Data\\NetStandard\\compat\\2.1.0\\shims\\netfx\" -s=\"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.17f1\\Editor\\Data\\NetStandard\\compat\\2.1.0\\shims\\netstandard\" -s=\"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.17f1\\Editor\\Data\\NetStandard\\Extensions\\2.0.0\" -s=\"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.17f1\\Editor\\Data\\NetStandard\\ref\\2.1.0\" -s=\"C:\\Users\\andre\\OneDrive\\Documentos\\Proyectos\\Personal\\Practice\\Games\\IronSlug_final_v3\\IronSlug\\Library\\Bee\\PlayerScriptAssemblies\" -s=\"C:\\Users\\andre\\OneDrive\\Documentos\\Proyectos\\Personal\\Practice\\Games\\IronSlug_final_v3\\IronSlug\\Library\\PackageCache\\com.unity.ext.nunit@1.0.6\\net35\\unity-custom\" -o=\"Library/BuildPlayerData/Player\" -rn=\"RuntimeInitializeOnLoads.json\" -tn=\"TypeDb-All.json\"",
+      "Action": "\"C:/Program Files/Unity/Hub/Editor/2022.3.17f1/Editor/Data\\Tools\\netcorerun\\netcorerun.exe\" \"C:/Program Files/Unity/Hub/Editor/2022.3.17f1/Editor/Data/Tools/BuildPlayerDataGenerator/BuildPlayerDataGenerator.exe\" -a=\"C:\\Projects\\Owner\\Projects\\Code\\IronSlug-Unity\\Library\\Bee\\PlayerScriptAssemblies\\Assembly-CSharp.dll\" -a=\"C:\\Projects\\Owner\\Projects\\Code\\IronSlug-Unity\\Library\\Bee\\PlayerScriptAssemblies\\Unity.AI.Navigation.dll\" -a=\"C:\\Projects\\Owner\\Projects\\Code\\IronSlug-Unity\\Library\\Bee\\PlayerScriptAssemblies\\Unity.TextMeshPro.dll\" -a=\"C:\\Projects\\Owner\\Projects\\Code\\IronSlug-Unity\\Library\\Bee\\PlayerScriptAssemblies\\Unity.Timeline.dll\" -a=\"C:\\Projects\\Owner\\Projects\\Code\\IronSlug-Unity\\Library\\Bee\\PlayerScriptAssemblies\\UnityEngine.TestRunner.dll\" -a=\"C:\\Projects\\Owner\\Projects\\Code\\IronSlug-Unity\\Library\\Bee\\PlayerScriptAssemblies\\UnityEngine.UI.dll\" -a=\"C:\\Projects\\Owner\\Projects\\Code\\IronSlug-Unity\\Library\\PackageCache\\com.unity.ext.nunit@1.0.6\\net35\\unity-custom\\nunit.framework.dll\" -s=\"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.17f1\\Editor\\Data\\Managed\\UnityEngine\" -s=\"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.17f1\\Editor\\Data\\NetStandard\\compat\\2.1.0\\shims\\netfx\" -s=\"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.17f1\\Editor\\Data\\NetStandard\\compat\\2.1.0\\shims\\netstandard\" -s=\"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.17f1\\Editor\\Data\\NetStandard\\Extensions\\2.0.0\" -s=\"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.17f1\\Editor\\Data\\NetStandard\\ref\\2.1.0\" -s=\"C:\\Projects\\Owner\\Projects\\Code\\IronSlug-Unity\\Library\\Bee\\PlayerScriptAssemblies\" -s=\"C:\\Projects\\Owner\\Projects\\Code\\IronSlug-Unity\\Library\\PackageCache\\com.unity.ext.nunit@1.0.6\\net35\\unity-custom\" -o=\"Library/BuildPlayerData/Player\" -rn=\"RuntimeInitializeOnLoads.json\" -tn=\"TypeDb-All.json\"",
       "Inputs": [
         "C:/Program Files/Unity/Hub/Editor/2022.3.17f1/Editor/Data/Tools/netcorerun/netcorerun.exe",
         "C:/Program Files/Unity/Hub/Editor/2022.3.17f1/Editor/Data/Tools/BuildPlayerDataGenerator/BuildPlayerDataGenerator.exe",
@@ -4668,6 +4668,6 @@
   "SharedResources": [],
   "Scanners": [],
   "Identifier": "Library/Bee/500b0aP.dag.json",
-  "PayloadsFile": "C:/Users/andre/OneDrive/Documentos/Proyectos/Personal/Practice/Games/IronSlug_final_v3/IronSlug/Library/Bee/500b0aP.dag.payloads",
+  "PayloadsFile": "C:/Projects/Owner/Projects/Code/IronSlug-Unity/Library/Bee/500b0aP.dag.payloads",
   "RelativePathToRoot": "../.."
 }

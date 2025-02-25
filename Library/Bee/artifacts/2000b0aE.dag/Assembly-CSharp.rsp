@@ -92,7 +92,6 @@
 -define:ENABLE_UNITY_COLLECTIONS_CHECKS
 -define:ENABLE_BURST_AOT
 -define:UNITY_TEAM_LICENSE
--define:UNITY_PRO_LICENSE
 -define:ENABLE_CUSTOM_RENDER_TEXTURE
 -define:ENABLE_DIRECTOR
 -define:ENABLE_LOCALIZATION
@@ -339,6 +338,7 @@
 "Assets/Scripts/Camera/Camera.cs"
 "Assets/Scripts/Configs/GameOver.cs"
 "Assets/Scripts/Configs/PauseManager.cs"
+"Assets/Scripts/Configs/TimeManager.cs"
 "Assets/Scripts/Configs/VictoryManager.cs"
 "Assets/Scripts/Granade/ContactEnemyGranade.cs"
 "Assets/Scripts/Granade/ContactGranade.cs"
@@ -348,6 +348,7 @@
 "Assets/Scripts/Player/BulletMovement.cs"
 "Assets/Scripts/Player/DeadPlayerAnimation.cs"
 "Assets/Scripts/Player/Movimiento.cs"
+"Assets/Scripts/Player/UpdateScore.cs"
 "Assets/Scripts/SuperSoldier/ColliderShottingSuper.cs"
 "Assets/Scripts/SuperSoldier/MovimientoSuperSoldier.cs"
 "Assets/Scripts/Train/MovementTrain.cs"
