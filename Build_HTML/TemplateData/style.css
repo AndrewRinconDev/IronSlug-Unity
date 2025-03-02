@@ -164,4 +164,21 @@ body {
   .m-0 {
     margin: 0;
   }
+
+  .footer-container{
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    position: fixed;
+    align-items: center;
+    background-color: rgba(0, 0, 0, 0.4);
+    box-shadow: 0 0 10px 5px rgba(255, 255, 255, 0.15);
+    color: white;
+    bottom: 0;
+    left: 0;
+  }
+  
+  .footer-container a{
+    color: tomato;
+  }
   
