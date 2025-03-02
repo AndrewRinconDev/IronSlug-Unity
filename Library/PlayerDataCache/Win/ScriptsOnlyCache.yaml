@@ -119,77 +119,77 @@ ScriptsOnlyBuild:
     - Class: 111
       Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 1520}
+      Script: {instanceID: 1578}
     - Class: 114
-      Script: {instanceID: 1580}
+      Script: {instanceID: 1626}
     - Class: 114
-      Script: {instanceID: 1752}
+      Script: {instanceID: 1698}
     - Class: 114
-      Script: {instanceID: 2098}
+      Script: {instanceID: 1754}
     - Class: 114
-      Script: {instanceID: 2400}
+      Script: {instanceID: 1872}
     - Class: 114
-      Script: {instanceID: 2510}
+      Script: {instanceID: 1952}
     - Class: 114
-      Script: {instanceID: 2678}
+      Script: {instanceID: 2104}
     - Class: 114
-      Script: {instanceID: 2858}
+      Script: {instanceID: 2154}
     - Class: 114
-      Script: {instanceID: 2950}
+      Script: {instanceID: 2410}
     - Class: 114
-      Script: {instanceID: 4926}
+      Script: {instanceID: 2422}
     - Class: 114
-      Script: {instanceID: 4930}
+      Script: {instanceID: 2466}
     - Class: 114
-      Script: {instanceID: 4934}
+      Script: {instanceID: 2472}
     - Class: 114
-      Script: {instanceID: 4938}
+      Script: {instanceID: 2526}
     - Class: 114
-      Script: {instanceID: 4942}
+      Script: {instanceID: 2694}
     - Class: 114
-      Script: {instanceID: 4946}
+      Script: {instanceID: 2718}
     - Class: 114
-      Script: {instanceID: 4950}
+      Script: {instanceID: 2732}
     - Class: 114
-      Script: {instanceID: 4958}
+      Script: {instanceID: 2758}
     - Class: 114
-      Script: {instanceID: 4962}
+      Script: {instanceID: 2882}
     - Class: 114
-      Script: {instanceID: 4966}
+      Script: {instanceID: 2884}
     - Class: 114
-      Script: {instanceID: 4970}
+      Script: {instanceID: 2896}
     - Class: 114
-      Script: {instanceID: 4974}
+      Script: {instanceID: 2978}
     - Class: 114
-      Script: {instanceID: 4978}
+      Script: {instanceID: 3132}
     - Class: 114
-      Script: {instanceID: 4982}
+      Script: {instanceID: 3300}
     - Class: 114
-      Script: {instanceID: 4990}
+      Script: {instanceID: 3746}
     - Class: 114
-      Script: {instanceID: 4994}
+      Script: {instanceID: 3812}
     - Class: 114
-      Script: {instanceID: 4998}
+      Script: {instanceID: 3868}
     - Class: 114
-      Script: {instanceID: 5002}
+      Script: {instanceID: 3910}
     - Class: 114
-      Script: {instanceID: 5006}
+      Script: {instanceID: 3976}
     - Class: 114
-      Script: {instanceID: 5010}
+      Script: {instanceID: 4030}
     - Class: 114
-      Script: {instanceID: 5014}
+      Script: {instanceID: 4040}
     - Class: 114
-      Script: {instanceID: 5018}
+      Script: {instanceID: 4054}
     - Class: 114
-      Script: {instanceID: 5026}
+      Script: {instanceID: 4104}
     - Class: 114
-      Script: {instanceID: 5032}
+      Script: {instanceID: 4210}
     - Class: 114
-      Script: {instanceID: 5036}
+      Script: {instanceID: 4226}
     - Class: 114
-      Script: {instanceID: 5040}
+      Script: {instanceID: 4364}
     - Class: 114
-      Script: {instanceID: 5044}
+      Script: {instanceID: 4590}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -264,79 +264,79 @@ ScriptsOnlyBuild:
     - Class: 104
       Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 1520}
+      Script: {instanceID: 1578}
     - Class: 114
-      Script: {instanceID: 1580}
+      Script: {instanceID: 1626}
     - Class: 114
-      Script: {instanceID: 1752}
+      Script: {instanceID: 1698}
     - Class: 114
-      Script: {instanceID: 2098}
+      Script: {instanceID: 1754}
     - Class: 114
-      Script: {instanceID: 2400}
+      Script: {instanceID: 1872}
     - Class: 114
-      Script: {instanceID: 2510}
+      Script: {instanceID: 1952}
     - Class: 114
-      Script: {instanceID: 2678}
+      Script: {instanceID: 2104}
     - Class: 114
-      Script: {instanceID: 2858}
+      Script: {instanceID: 2154}
     - Class: 114
-      Script: {instanceID: 2950}
+      Script: {instanceID: 2386}
     - Class: 114
-      Script: {instanceID: 4926}
+      Script: {instanceID: 2410}
     - Class: 114
-      Script: {instanceID: 4930}
+      Script: {instanceID: 2422}
     - Class: 114
-      Script: {instanceID: 4934}
+      Script: {instanceID: 2466}
     - Class: 114
-      Script: {instanceID: 4938}
+      Script: {instanceID: 2472}
     - Class: 114
-      Script: {instanceID: 4942}
+      Script: {instanceID: 2526}
     - Class: 114
-      Script: {instanceID: 4946}
+      Script: {instanceID: 2694}
     - Class: 114
-      Script: {instanceID: 4950}
+      Script: {instanceID: 2698}
     - Class: 114
-      Script: {instanceID: 4954}
+      Script: {instanceID: 2718}
     - Class: 114
-      Script: {instanceID: 4958}
+      Script: {instanceID: 2732}
     - Class: 114
-      Script: {instanceID: 4962}
+      Script: {instanceID: 2758}
     - Class: 114
-      Script: {instanceID: 4966}
+      Script: {instanceID: 2882}
     - Class: 114
-      Script: {instanceID: 4970}
+      Script: {instanceID: 2884}
     - Class: 114
-      Script: {instanceID: 4974}
+      Script: {instanceID: 2896}
     - Class: 114
-      Script: {instanceID: 4982}
+      Script: {instanceID: 2978}
     - Class: 114
-      Script: {instanceID: 4986}
+      Script: {instanceID: 3110}
     - Class: 114
-      Script: {instanceID: 4990}
+      Script: {instanceID: 3746}
     - Class: 114
-      Script: {instanceID: 4994}
+      Script: {instanceID: 3812}
     - Class: 114
-      Script: {instanceID: 5002}
+      Script: {instanceID: 3868}
     - Class: 114
-      Script: {instanceID: 5006}
+      Script: {instanceID: 3910}
     - Class: 114
-      Script: {instanceID: 5010}
+      Script: {instanceID: 3976}
     - Class: 114
-      Script: {instanceID: 5014}
+      Script: {instanceID: 4030}
     - Class: 114
-      Script: {instanceID: 5018}
+      Script: {instanceID: 4040}
     - Class: 114
-      Script: {instanceID: 5022}
+      Script: {instanceID: 4054}
     - Class: 114
-      Script: {instanceID: 5026}
+      Script: {instanceID: 4104}
     - Class: 114
-      Script: {instanceID: 5032}
+      Script: {instanceID: 4210}
     - Class: 114
-      Script: {instanceID: 5036}
+      Script: {instanceID: 4226}
     - Class: 114
-      Script: {instanceID: 5040}
+      Script: {instanceID: 4364}
     - Class: 114
-      Script: {instanceID: 5044}
+      Script: {instanceID: 4590}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -370,12 +370,6 @@ ScriptsOnlyBuild:
   scriptHashData:
   - hash:
       serializedVersion: 2
-      Hash: 4dbcfc2843f5d548fd2a61e710280627
-    assemblyName: Assembly-CSharp
-    namespaceName: 
-    className: ColliderAttack
-  - hash:
-      serializedVersion: 2
       Hash: 55060a7bf226ac385ce19ebd450f199f
     assemblyName: UnityEngine.UI
     namespaceName: UnityEngine.UIElements
@@ -400,6 +394,12 @@ ScriptsOnlyBuild:
     className: TMP_InputField
   - hash:
       serializedVersion: 2
+      Hash: 64b6ca1cbb393b8a722c322d4edec2e4
+    assemblyName: Assembly-CSharp
+    namespaceName: 
+    className: GranadePlayer
+  - hash:
+      serializedVersion: 2
       Hash: a3901985eb076c1c9b7562fca82ca3e0
     assemblyName: Unity.Timeline
     namespaceName: UnityEngine.Timeline
@@ -416,6 +416,12 @@ ScriptsOnlyBuild:
     assemblyName: UnityEngine.UI
     namespaceName: UnityEngine.UI
     className: LayoutElement
+  - hash:
+      serializedVersion: 2
+      Hash: 8a3a2c49b06a7f9e29a5a5eac16b82e9
+    assemblyName: Assembly-CSharp
+    namespaceName: 
+    className: DeadPlayerAnimation
   - hash:
       serializedVersion: 2
       Hash: 00bbd9db8634496d079d17711b2ff7c4
@@ -454,6 +460,18 @@ ScriptsOnlyBuild:
     className: NavMeshModifierVolume
   - hash:
       serializedVersion: 2
+      Hash: aa4a5ab0835d3313a0ad04c07cedc2dc
+    assemblyName: Assembly-CSharp
+    namespaceName: 
+    className: DeadAnimation
+  - hash:
+      serializedVersion: 2
+      Hash: 4dbcfc2843f5d548fd2a61e710280627
+    assemblyName: Assembly-CSharp
+    namespaceName: 
+    className: ColliderAttack
+  - hash:
+      serializedVersion: 2
       Hash: 5874b789cd9832847c61ebfa803213af
     assemblyName: UnityEngine.UI
     namespaceName: UnityEngine.UIElements
@@ -484,6 +502,12 @@ ScriptsOnlyBuild:
     className: Text
   - hash:
       serializedVersion: 2
+      Hash: 2544c383a651db01c86dcdc10c9df84f
+    assemblyName: Assembly-CSharp
+    namespaceName: 
+    className: ControllerUtilGranades
+  - hash:
+      serializedVersion: 2
       Hash: 7e93247d600e115dac0cdd880de94e99
     assemblyName: UnityEngine.TestRunner
     namespaceName: UnityEngine.TestTools.TestRunner
@@ -496,10 +520,34 @@ ScriptsOnlyBuild:
     className: RawImage
   - hash:
       serializedVersion: 2
+      Hash: 4cd8728314269311abde4c491c2089df
+    assemblyName: Assembly-CSharp
+    namespaceName: 
+    className: ColliderStopTrain
+  - hash:
+      serializedVersion: 2
       Hash: 540882762544409cc4530e60db00e951
     assemblyName: UnityEngine.UI
     namespaceName: UnityEngine.UI
     className: CanvasScaler
+  - hash:
+      serializedVersion: 2
+      Hash: 865b5055d7a45f27846d856047c66225
+    assemblyName: Assembly-CSharp
+    namespaceName: 
+    className: BulletMovement
+  - hash:
+      serializedVersion: 2
+      Hash: 1d8a534e249ef7c7254a2c81d5e4e7e6
+    assemblyName: Assembly-CSharp
+    namespaceName: 
+    className: GameOver
+  - hash:
+      serializedVersion: 2
+      Hash: 9a64a3a4dce41a79e8f31805b201208a
+    assemblyName: Assembly-CSharp
+    namespaceName: 
+    className: GranadeEnemy
   - hash:
       serializedVersion: 2
       Hash: 33656f83bb0079184b2206a69690ec46
@@ -550,6 +598,24 @@ ScriptsOnlyBuild:
     className: GraphicRaycaster
   - hash:
       serializedVersion: 2
+      Hash: ead1bbb92129f6977b614f1ae4da82fb
+    assemblyName: Assembly-CSharp
+    namespaceName: 
+    className: VictoryManager
+  - hash:
+      serializedVersion: 2
+      Hash: 1949c3ec8ac0a1a2610ff80219b93d28
+    assemblyName: Assembly-CSharp
+    namespaceName: 
+    className: ColliderShotting
+  - hash:
+      serializedVersion: 2
+      Hash: bee78758980980613a04efae648ad03a
+    assemblyName: Assembly-CSharp
+    namespaceName: 
+    className: ContactEnemyGranade
+  - hash:
+      serializedVersion: 2
       Hash: 3b5263a98bcc71d9a9d1d78a31b34ced
     assemblyName: Unity.TextMeshPro
     namespaceName: TMPro
@@ -568,6 +634,12 @@ ScriptsOnlyBuild:
     className: TMP_SpriteAnimator
   - hash:
       serializedVersion: 2
+      Hash: d046ba3ef70054e57a7244dfd8a45267
+    assemblyName: Assembly-CSharp
+    namespaceName: 
+    className: BulletEnemyMovement
+  - hash:
+      serializedVersion: 2
       Hash: bf40c7a9dc15bc219687c9838aa9b41f
     assemblyName: UnityEngine.TestRunner
     namespaceName: UnityEngine.TestTools.TestRunner.Callbacks
@@ -580,10 +652,22 @@ ScriptsOnlyBuild:
     className: StandaloneInputModule
   - hash:
       serializedVersion: 2
+      Hash: 17d427049cd9ae98f9bc4b00addc6ed3
+    assemblyName: Assembly-CSharp
+    namespaceName: 
+    className: ActionSSoldier
+  - hash:
+      serializedVersion: 2
       Hash: a90f6a00b23520788be7d89ee3b0773d
     assemblyName: UnityEngine.UI
     namespaceName: UnityEngine.UI
     className: Scrollbar
+  - hash:
+      serializedVersion: 2
+      Hash: 378e55894f3dc467f16605b8ab612ed8
+    assemblyName: Assembly-CSharp
+    namespaceName: 
+    className: Movimiento
   - hash:
       serializedVersion: 2
       Hash: 13f262cc0741566a7ab72682984bc3e1
@@ -628,6 +712,18 @@ ScriptsOnlyBuild:
     className: TextContainer
   - hash:
       serializedVersion: 2
+      Hash: 1460796300e177714120afc997107aab
+    assemblyName: Assembly-CSharp
+    namespaceName: 
+    className: MovementTrain
+  - hash:
+      serializedVersion: 2
+      Hash: d10f4e0a53126d601fb30623f3eebd7c
+    assemblyName: Assembly-CSharp
+    namespaceName: 
+    className: UpdateScore
+  - hash:
+      serializedVersion: 2
       Hash: d41ab9b5ea92474f9c0a6937a0607ce1
     assemblyName: UnityEngine.UI
     namespaceName: UnityEngine.UI
@@ -662,6 +758,12 @@ ScriptsOnlyBuild:
     assemblyName: UnityEngine.UI
     namespaceName: UnityEngine.EventSystems
     className: BaseInput
+  - hash:
+      serializedVersion: 2
+      Hash: 4dcbea9eeb229329346196f7444eb1fe
+    assemblyName: Assembly-CSharp
+    namespaceName: 
+    className: TimeManager
   - hash:
       serializedVersion: 2
       Hash: 7bb32d6e4c7614a97d9723ce7e26588c
@@ -742,10 +844,22 @@ ScriptsOnlyBuild:
     className: Mask
   - hash:
       serializedVersion: 2
+      Hash: 3f5adc0154a7fdd3d771bdf52d1cb9e2
+    assemblyName: Assembly-CSharp
+    namespaceName: 
+    className: ControllerAddLife
+  - hash:
+      serializedVersion: 2
       Hash: d0392b7f3f52d5af537ade186b4f51f1
     assemblyName: Unity.Timeline
     namespaceName: UnityEngine.Timeline
     className: ControlTrack
+  - hash:
+      serializedVersion: 2
+      Hash: 61ec3f373c00985e5f31167c07a001f1
+    assemblyName: Assembly-CSharp
+    namespaceName: 
+    className: ColliderChase
   - hash:
       serializedVersion: 2
       Hash: 185e7bacfbbc5defefa609c70f7ff4ce
@@ -766,6 +880,12 @@ ScriptsOnlyBuild:
     className: ScrollRect
   - hash:
       serializedVersion: 2
+      Hash: 1f3974fa4c26edef75ed5ca40e2a8241
+    assemblyName: Assembly-CSharp
+    namespaceName: 
+    className: PauseManager
+  - hash:
+      serializedVersion: 2
       Hash: 7053e305cdc1eb560f4c3be49d3b5136
     assemblyName: UnityEngine.UI
     namespaceName: UnityEngine.EventSystems
@@ -776,6 +896,12 @@ ScriptsOnlyBuild:
     assemblyName: Unity.Timeline
     namespaceName: UnityEngine.Timeline
     className: ControlPlayableAsset
+  - hash:
+      serializedVersion: 2
+      Hash: c5f6bf53a8d3bea1c8135aed3137f420
+    assemblyName: Assembly-CSharp
+    namespaceName: 
+    className: PhysicCollider
   - hash:
       serializedVersion: 2
       Hash: 1a680d9a08de79b0d2c779e78c9843b4
@@ -790,10 +916,40 @@ ScriptsOnlyBuild:
     className: TMP_Settings
   - hash:
       serializedVersion: 2
+      Hash: 295a6fbc489228322e0000840afa2e37
+    assemblyName: Assembly-CSharp
+    namespaceName: 
+    className: ColliderThrowGranade
+  - hash:
+      serializedVersion: 2
+      Hash: cbc60542850cd43a509168ca4913daf1
+    assemblyName: Assembly-CSharp
+    namespaceName: 
+    className: ColliderShottingSuper
+  - hash:
+      serializedVersion: 2
+      Hash: 560d7288a4a99f147bd3165a041e1cf5
+    assemblyName: Assembly-CSharp
+    namespaceName: 
+    className: ContactGranade
+  - hash:
+      serializedVersion: 2
+      Hash: 0965ed2253f10c07d4278ac5921c0e3b
+    assemblyName: Assembly-CSharp
+    namespaceName: 
+    className: Animations
+  - hash:
+      serializedVersion: 2
       Hash: e7e95903ca66d58e1a7cbd71f824e16d
     assemblyName: Unity.TextMeshPro
     namespaceName: TMPro
     className: TMP_SubMeshUI
+  - hash:
+      serializedVersion: 2
+      Hash: aa6f5acfb7ccca99eec433ff25050686
+    assemblyName: Assembly-CSharp
+    namespaceName: 
+    className: MovimientoSuperSoldier
   - hash:
       serializedVersion: 2
       Hash: 9078325c2a6f6a2d9612ade897511860
@@ -802,10 +958,28 @@ ScriptsOnlyBuild:
     className: TMP_SpriteAsset
   - hash:
       serializedVersion: 2
+      Hash: a358407ec9f6ef637d3857c7530dec79
+    assemblyName: Assembly-CSharp
+    namespaceName: 
+    className: Camera
+  - hash:
+      serializedVersion: 2
+      Hash: a78dc900d6ee0ec92661c0f4284bff73
+    assemblyName: Assembly-CSharp
+    namespaceName: 
+    className: MovimientoBlueSoldier
+  - hash:
+      serializedVersion: 2
       Hash: 1553f209ae0b2d5d3a35685fca55f9c3
     assemblyName: Unity.TextMeshPro
     namespaceName: TMPro
     className: TMP_ScrollbarEventHandler
+  - hash:
+      serializedVersion: 2
+      Hash: 9828b3cab1eb2580938490f9d7d84e08
+    assemblyName: Assembly-CSharp
+    namespaceName: 
+    className: MovimientoSoldierPatrol
   - hash:
       serializedVersion: 2
       Hash: ff76cf6cf52b4db7b95af6ffadca9288
@@ -832,190 +1006,16 @@ ScriptsOnlyBuild:
     className: TouchInputModule
   - hash:
       serializedVersion: 2
-      Hash: 8a2f78c25d5e92eb97ee5544a162a2e9
-    assemblyName: Unity.AI.Navigation
-    namespaceName: Unity.AI.Navigation
-    className: NavMeshLink
-  - hash:
-      serializedVersion: 2
-      Hash: 865b5055d7a45f27846d856047c66225
-    assemblyName: Assembly-CSharp
-    namespaceName: 
-    className: BulletMovement
-  - hash:
-      serializedVersion: 2
-      Hash: a78dc900d6ee0ec92661c0f4284bff73
-    assemblyName: Assembly-CSharp
-    namespaceName: 
-    className: MovimientoBlueSoldier
-  - hash:
-      serializedVersion: 2
-      Hash: 3f5adc0154a7fdd3d771bdf52d1cb9e2
-    assemblyName: Assembly-CSharp
-    namespaceName: 
-    className: ControllerAddLife
-  - hash:
-      serializedVersion: 2
-      Hash: aa6f5acfb7ccca99eec433ff25050686
-    assemblyName: Assembly-CSharp
-    namespaceName: 
-    className: MovimientoSuperSoldier
-  - hash:
-      serializedVersion: 2
-      Hash: 61ec3f373c00985e5f31167c07a001f1
-    assemblyName: Assembly-CSharp
-    namespaceName: 
-    className: ColliderChase
-  - hash:
-      serializedVersion: 2
-      Hash: d046ba3ef70054e57a7244dfd8a45267
-    assemblyName: Assembly-CSharp
-    namespaceName: 
-    className: BulletEnemyMovement
-  - hash:
-      serializedVersion: 2
-      Hash: c5f6bf53a8d3bea1c8135aed3137f420
-    assemblyName: Assembly-CSharp
-    namespaceName: 
-    className: PhysicCollider
-  - hash:
-      serializedVersion: 2
-      Hash: 4cd8728314269311abde4c491c2089df
-    assemblyName: Assembly-CSharp
-    namespaceName: 
-    className: ColliderStopTrain
-  - hash:
-      serializedVersion: 2
-      Hash: 378e55894f3dc467f16605b8ab612ed8
-    assemblyName: Assembly-CSharp
-    namespaceName: 
-    className: Movimiento
-  - hash:
-      serializedVersion: 2
-      Hash: 64b6ca1cbb393b8a722c322d4edec2e4
-    assemblyName: Assembly-CSharp
-    namespaceName: 
-    className: GranadePlayer
-  - hash:
-      serializedVersion: 2
-      Hash: 1f3974fa4c26edef75ed5ca40e2a8241
-    assemblyName: Assembly-CSharp
-    namespaceName: 
-    className: PauseManager
-  - hash:
-      serializedVersion: 2
-      Hash: 9828b3cab1eb2580938490f9d7d84e08
-    assemblyName: Assembly-CSharp
-    namespaceName: 
-    className: MovimientoSoldierPatrol
-  - hash:
-      serializedVersion: 2
-      Hash: aa4a5ab0835d3313a0ad04c07cedc2dc
-    assemblyName: Assembly-CSharp
-    namespaceName: 
-    className: DeadAnimation
-  - hash:
-      serializedVersion: 2
-      Hash: 4dcbea9eeb229329346196f7444eb1fe
-    assemblyName: Assembly-CSharp
-    namespaceName: 
-    className: TimeManager
-  - hash:
-      serializedVersion: 2
-      Hash: 0965ed2253f10c07d4278ac5921c0e3b
-    assemblyName: Assembly-CSharp
-    namespaceName: 
-    className: Animations
-  - hash:
-      serializedVersion: 2
-      Hash: 1460796300e177714120afc997107aab
-    assemblyName: Assembly-CSharp
-    namespaceName: 
-    className: MovementTrain
-  - hash:
-      serializedVersion: 2
-      Hash: 2544c383a651db01c86dcdc10c9df84f
-    assemblyName: Assembly-CSharp
-    namespaceName: 
-    className: ControllerUtilGranades
-  - hash:
-      serializedVersion: 2
-      Hash: 1d8a534e249ef7c7254a2c81d5e4e7e6
-    assemblyName: Assembly-CSharp
-    namespaceName: 
-    className: GameOver
-  - hash:
-      serializedVersion: 2
-      Hash: d10f4e0a53126d601fb30623f3eebd7c
-    assemblyName: Assembly-CSharp
-    namespaceName: 
-    className: UpdateScore
-  - hash:
-      serializedVersion: 2
-      Hash: 17d427049cd9ae98f9bc4b00addc6ed3
-    assemblyName: Assembly-CSharp
-    namespaceName: 
-    className: ActionSSoldier
-  - hash:
-      serializedVersion: 2
-      Hash: cbc60542850cd43a509168ca4913daf1
-    assemblyName: Assembly-CSharp
-    namespaceName: 
-    className: ColliderShottingSuper
-  - hash:
-      serializedVersion: 2
-      Hash: a358407ec9f6ef637d3857c7530dec79
-    assemblyName: Assembly-CSharp
-    namespaceName: 
-    className: Camera
-  - hash:
-      serializedVersion: 2
-      Hash: 8a3a2c49b06a7f9e29a5a5eac16b82e9
-    assemblyName: Assembly-CSharp
-    namespaceName: 
-    className: DeadPlayerAnimation
-  - hash:
-      serializedVersion: 2
-      Hash: 560d7288a4a99f147bd3165a041e1cf5
-    assemblyName: Assembly-CSharp
-    namespaceName: 
-    className: ContactGranade
-  - hash:
-      serializedVersion: 2
-      Hash: ead1bbb92129f6977b614f1ae4da82fb
-    assemblyName: Assembly-CSharp
-    namespaceName: 
-    className: VictoryManager
-  - hash:
-      serializedVersion: 2
       Hash: 6abe6cd7bc6705ebf69098968454e32b
     assemblyName: Assembly-CSharp
     namespaceName: 
     className: ChangeLevel
   - hash:
       serializedVersion: 2
-      Hash: bee78758980980613a04efae648ad03a
-    assemblyName: Assembly-CSharp
-    namespaceName: 
-    className: ContactEnemyGranade
-  - hash:
-      serializedVersion: 2
-      Hash: 1949c3ec8ac0a1a2610ff80219b93d28
-    assemblyName: Assembly-CSharp
-    namespaceName: 
-    className: ColliderShotting
-  - hash:
-      serializedVersion: 2
-      Hash: 9a64a3a4dce41a79e8f31805b201208a
-    assemblyName: Assembly-CSharp
-    namespaceName: 
-    className: GranadeEnemy
-  - hash:
-      serializedVersion: 2
-      Hash: 295a6fbc489228322e0000840afa2e37
-    assemblyName: Assembly-CSharp
-    namespaceName: 
-    className: ColliderThrowGranade
+      Hash: 8a2f78c25d5e92eb97ee5544a162a2e9
+    assemblyName: Unity.AI.Navigation
+    namespaceName: Unity.AI.Navigation
+    className: NavMeshLink
   platform: 5
   scenePathNames:
   - Assets/Scenes/Level1/Level1.unity
